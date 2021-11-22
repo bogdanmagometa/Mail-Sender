@@ -1,0 +1,2 @@
+Happy birthday, %NAME%
+You're now %AGE%!
